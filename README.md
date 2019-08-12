@@ -1,6 +1,6 @@
 # HOUSING-PREDICTION
-Machine learning problem.<b>
-This model predict the price of houses in california<b>
-Language used Python
+Machine learning problem.<br>
+This model predict the price of houses in california<br>
+Language used Python<br>
 Libraries used: Scikit-learn,Pandas,Numpy,Matplotlib
  
